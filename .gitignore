@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+data/
+dataset/
+manifests/
+runs/
+outputs/
+*.log
+*.tmp
+*.pth
+*.pt
+!weights/ours_table1.pt
